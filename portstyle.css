@@ -1,0 +1,144 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+}
+
+.foto {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 213px;
+    height: 213px;
+    left: 612px;
+    top: 42px;
+    border-radius: 456px;
+
+    border: 2px solid #BB99DD;
+
+
+}
+
+.img-center{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 618px;
+    top: 49px;
+}
+
+.group1 {
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 653px;
+    top: 282px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+
+
+    text-align: center;
+
+    color: #BB99DD;
+}
+
+
+.center1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 338px;
+
+    border: 2px solid #BB99DD;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 4px;
+    font-size: 24px;
+    margin: 0 auto;
+    padding: 2px 66px 3px 109px;
+    font-family: sans-serif;
+
+}
+
+.center2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 409px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    font-size: 24px;
+    margin: 0 auto;
+    padding: 2px 66px 3px 109px;
+    font-family: sans-serif;
+}
+
+.center3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 473px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    font-size: 24px;
+    margin: 0 auto;
+    padding: 2px 66px 3px 109px;
+    font-family: sans-serif;
+}
+
+.center4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 537px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    font-size: 24px;
+    margin: 0 auto;
+    padding: 2px 66px 3px 109px;
+    font-family: sans-serif;
+}
+
+.redes1 {
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    left: 793px;
+    top: 602px;
+    margin: 0px auto;
+
+}
+
+.redes2 {
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    left: 706px;
+    top: 604px;
+    margin: 0px auto;
+
+}
+
+.redes3 {
+    position: absolute;
+    margin: 0px auto;
+    padding: 0px 0px 0px 0px;
+    left: 615px;
+    top: 604px;
+
+}
